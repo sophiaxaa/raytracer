@@ -2,7 +2,9 @@
     "configurations": [
         {
             "name": "Win32",
-            "includePath": [],
+            "includePath": [
+                "C:\\MinGW\\include"
+            ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
