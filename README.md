@@ -1,2 +1,2 @@
 # raytracer
-basic ray tracer
+basic ray tracer implementation in rust 
